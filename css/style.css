@@ -1,0 +1,29 @@
+.my_nav{
+    margin-inline-start: auto;
+}
+.over{
+    border: 3px solid green;
+}
+.btn{
+    width: 120px;
+}
+.world{
+    font-size: 73px;
+    font-weight: bolder;
+}
+.help{
+    font-size: 73px;
+    font-weight: bolder;
+}
+.box5{
+    padding-top: 150px;
+}
+.point{
+    padding-top: 100px;
+}
+.mat{
+    margin-top: 50px;
+}
+.code{
+    padding-left: 130px;
+}
